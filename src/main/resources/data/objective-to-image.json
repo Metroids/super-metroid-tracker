@@ -1,0 +1,70 @@
+{
+  "all_chozo_robots": "activate-chozo-robots",
+
+  "crateria_cleared": "clear-crateria",
+  "croc_cleared": "clear-crocomire",
+  "east_maridia_cleared": "clear-east-maridia",
+  "green_brin_cleared": "clear-green-brinstar",
+  "kraid_cleared": "clear-kraid",
+  "lower_norfair_cleared": "clear-lower-norfair",
+  "red_brin_cleared": "clear-red-brinstar",
+  "upper_norfair_cleared": "clear-upper-norfair",
+  "west_maridia_cleared": "clear-west-maridia",
+  "ws_cleared": "clear-wrecked-ship",
+
+  "crateria_explored": "explore-crateria",
+  "croc_explored": "explore-crocomire",
+  "east_maridia_explored": "explore-east-maridia",
+  "green_brin_explored": "explore-green-brinstar",
+  "kraid_explored": "explore-kraid",
+  "lower_norfair_explored": "explore-lower-norfair",
+  "red_brin_explored": "explore-red-brinstar",
+  "upper_norfair_explored": "explore-upper-norfair",
+  "west_maridia_explored": "explore-west-maridia",
+  "ws_explored": "explore-wrecked-ship",
+
+  "draygon_is_dead": "kill-draygon",
+  "kraid_is_dead": "kill-kraid",
+  "phantoon_is_dead": "kill-phantoon",
+  "ridley_is_dead": "kill-ridley",
+  "boss_1_killed": "kill-one-g-4",
+  "boss_2_killed": "kill-two-g-4",
+  "boss_3_killed": "kill-three-g-4",
+  "all_g4_dead": "kill-all-g-4",
+
+  "botwoon_is_dead": "kill-botwoon",
+  "crocomire_is_dead": "kill-crocomire",
+  "golden_torizo_is_dead": "kill-golden-torizo",
+  "spore_spawn_is_dead": "kill-spore-spawn",
+  "miniboss_1_killed": "kill-one-miniboss",
+  "miniboss_2_killed": "kill-two-minibosses",
+  "miniboss_3_killed": "kill-three-minibosses",
+  "all_mini_bosses_dead": "kill-all-minibosses",
+
+  "collect_25_items": "collect-25-items",
+  "collect_50_items": "collect-50-items",
+  "collect_75_items": "collect-75-items",
+  "collect_100_items": "collect-100-items",
+
+  "all_major_items": "collect-all-upgrades",
+
+  "explored_map_25": "explore-25-map",
+  "explored_map_50": "explore-50-map",
+  "explored_map_75": "explore-75-map",
+  "explored_map_100": "explore-100-map",
+
+  "kill_all_beetoms": "kill-all-beetoms",
+  "kill_all_cacatacs": "kill-all-cacatacs",
+  "kill_all_kagos": "kill-all-kagos",
+  "kill_all_ki_hunters": "kill-all-ki-hunters",
+  "kill_all_space_pirates": "kill-all-space-pirates",
+  "kill_all_yapping_maws": "kill-all-yapping-maws",
+
+  "fish_tickled": "tickle-the-red-fish",
+  "king_cac_dead": "kill-king-cacatac",
+  "orange_geemer": "kill-the-orange-geemer",
+  "shak_dead": "kill-shaktool",
+  "visited_animals": "visit-the-animals",
+
+  "scavenger_hunt_completed": "finish-scavenger-hunt"
+}
