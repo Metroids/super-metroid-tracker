@@ -62,14 +62,14 @@ public class Snes9x {
             snes9x.pointer = Pointer.createConstant(0x94DB54l);
             break version;
 
-          // supermetroid.memory.Snes9x-rr 1.60 (x64)
+          // snes9x-rr 1.60 (x64)
           case 13565952:
             snes9x.sixtyfourBit = true;
             snes9x.module = lpmodinfo;
             snes9x.pointer = Pointer.createConstant(0x140925118l);
             break version;
 
-          // supermetroid.memory.Snes9x-rr 1.60
+          // snes9x-rr 1.60
           case 9646080:
             snes9x.module = lpmodinfo;
             snes9x.pointer = Pointer.createConstant(0x97EE04l);

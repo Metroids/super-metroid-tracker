@@ -1,6 +1,9 @@
-# Super Metroid supermetroid.Tracker #
+# Super Metroid Item / Objective Tracker #
 
 ### What is this repository for? ###
 
-* Item tracker for Super Metroid.  Works on all versions of supermetroid.Snes9x version 1.60 for Windows.
-* Version 1.0
+* Item tracker for Super Metroid.
+* Supports reading process memory on Windows when using Snes9x version 1.60 for Windows.
+* Supports NWA memory access for other operating systems.
+* Supports objective tracking in some cases.
+* Version 3.0
